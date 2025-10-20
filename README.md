@@ -12,7 +12,7 @@ Les packets et ou outils que l'on va utilisé dans notre tutoriel :
  - Mysql ou MariaDB pour la base de donné
  - Apache2 pour le serveur web
 
-A ne pas oublié, toutes les commandes doivent être executer en mode ***Addministrateur***
+A ne pas oublié, toutes les commandes doivent être executer en mode ***Administrateur***
 
 ### 1. Install repository de Zabbix
 
