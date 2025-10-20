@@ -14,7 +14,7 @@ Les packets et ou outils que l'on va utilisé dans notre tutoriel :
 
 A ne pas oublié, toutes les commandes doivent être executer en mode ***Addministrateur***
 
-### 1. Install Zabbix
+### 1. Install repository de Zabbix
 
 ```bash
 wget https://repo.zabbix.com/zabbix/7.4/release/debian/pool/main/z/zabbix-release/zabbix-release_latest_7.4+debian13_all.deb
